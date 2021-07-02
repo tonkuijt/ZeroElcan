@@ -61,3 +61,5 @@ void loop()                                                                     
     }
     Serial.println("Done! Power down, disconnect Leonardo and test voltages!"); // We are done.
 }
+
+// o nee, toch niet
